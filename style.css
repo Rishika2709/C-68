@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+background-color: black;
+    color: ghostwhite;
+}
+
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+
+#marquee {
+    background-color: whitesmoke;
+    color: black;
+}
+
+.line {
+    height: 2px;
+    background-color: gainsboro;
+    width: 1300px;
+    margin: 8px auto;
+}
+#contact{
+    background-color: black;
+}
+#contat iframe{
+    width: 100%;
+}
